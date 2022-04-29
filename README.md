@@ -1,6 +1,15 @@
 
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
-[GitHub Profile Views Counter]: https://github.com/awanthikamadhushani/github-profile-views-counter
+@@ -1,5 +1,5 @@
+<!-- Your title -->
+## Hi, I'm Yasiru Tishan, An Architectural Developer 
+## Hi, I'm Yasiru Tishan, An Architectural Developer
+
+
+![Twitter Follow](https://img.shields.io/twitter/follow/yasiru_tishan?style=social)
+<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
+<img src="https://komarev.com/ghpvc/?username=yasirutishan&color=blue" alt="yasirutishan" />
+
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
