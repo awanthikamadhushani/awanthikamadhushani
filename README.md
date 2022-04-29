@@ -1,6 +1,6 @@
 
 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCeh1QctvANIkZfYmcYRhg6A?style=social">
-<img src="https://komarev.com/ghpvc/?username=awanthikamadhushani/&color=blue" alt="awanthikamadhushani/" />
+[GitHub Profile Views Counter]: https://github.com/awanthikamadhushani/github-profile-views-counter
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
